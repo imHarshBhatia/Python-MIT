@@ -1,4 +1,3 @@
-# Paste your code into this box
 flag,init_bal = True,10
 while flag:
     a = balance
@@ -8,4 +7,4 @@ while flag:
         flag = False
     else:
         init_bal += 10    
-print("Lowest Payment: " + str(init_bal))    
+print("Lowest Payment: " + str(init_bal))
