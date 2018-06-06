@@ -1,4 +1,3 @@
-# Paste your code into this box
 min_bal = 0
 max_bal = balance
 while True:
